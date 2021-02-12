@@ -25,8 +25,8 @@ def emails():
     return email_address
 
 
-# if __name__ == '__main__':
+if __name__ == '__main__':
 
-#   print(phone_number())
-#   # print(emails())
+  print(phone_number())
+  # print(emails())
 
